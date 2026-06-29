@@ -1,0 +1,30 @@
+TITLE: Indian Penal Code — Overview (Note: replaced by Bharatiya Nyaya Sanhita 2023)
+DOC_TYPE: statute
+JURISDICTION: IN
+SOURCE_URL: https://www.indiacode.nic.in/handle/123456789/2263
+SOURCE_NOTE: This is a CURATED REFERENCE NOTE, not the verbatim IPC. Importantly: the Indian Penal Code, 1860 has been REPEALED and REPLACED by the Bharatiya Nyaya Sanhita, 2023 (BNS), which came into force on 1 July 2024 along with the Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS) and Bharatiya Sakshya Adhiniyam, 2023 (BSA) replacing CrPC and Evidence Act respectively. Verify all section numbers against the current BNS for matters arising after 1 July 2024.
+
+The Indian Penal Code, 1860 was India's main substantive criminal law for 164 years. It is referenced here for legacy / pre-July-2024 matters and to support questions about historical case law.
+
+Notable sections (under IPC, 1860):
+  Section 299 — Culpable homicide.
+  Section 300 — Murder.
+  Section 302 — Punishment for murder.
+  Section 304 — Punishment for culpable homicide not amounting to murder.
+  Section 307 — Attempt to murder.
+  Section 375 — Rape (amended by Criminal Law (Amendment) Act, 2013).
+  Section 376 — Punishment for rape.
+  Section 378 — Theft.
+  Section 379 — Punishment for theft.
+  Section 415 — Cheating.
+  Section 420 — Cheating and dishonestly inducing delivery of property.
+  Section 499 — Defamation.
+  Section 500 — Punishment for defamation.
+  Section 503 — Criminal intimidation.
+
+Replaced by — Bharatiya Nyaya Sanhita, 2023:
+  BNS Section 101 — Murder (replaces IPC 302 framework).
+  BNS Section 103 — Punishment for murder.
+  BNS Section 318 — Cheating (replaces IPC 415/420 framework).
+  BNS Section 356 — Defamation (replaces IPC 499/500).
+  Note: BNS introduces "organised crime" (Section 111), "terrorist act" (Section 113), and a community service punishment. Verify each section against the official BNS bare act.

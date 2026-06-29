@@ -1,0 +1,9 @@
+TITLE: Constitution of India — Article 14 — Right to Equality
+DOC_TYPE: constitution
+JURISDICTION: IN
+SOURCE_URL: https://www.indiacode.nic.in/handle/123456789/15240
+SOURCE_NOTE: Verbatim text of Article 14 of the Constitution of India. Verify against the latest official text at indiacode.nic.in before relying on this in any legal filing.
+
+Article 14. Equality before law.
+
+The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India.

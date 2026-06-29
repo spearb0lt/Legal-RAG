@@ -1,0 +1,17 @@
+TITLE: K.S. Puttaswamy v. Union of India (2017) — Right to Privacy
+DOC_TYPE: case
+JURISDICTION: IN
+CITATION: (2017) 10 SCC 1
+SOURCE_URL: https://main.sci.gov.in/jonew/judis/45464.pdf
+SOURCE_NOTE: This is a CURATED SUMMARY for retrieval testing, not the verbatim judgment. The judgment is ~547 pages across six opinions. Replace this file with the full text from the Supreme Court e-SCR portal for production use.
+
+Justice K.S. Puttaswamy (Retd.) and Anr. v. Union of India and Ors., Writ Petition (Civil) No. 494 of 2012. Decided: 24 August 2017. Bench: 9-judge Constitution Bench.
+
+HOLDING: The right to privacy is a fundamental right, protected as an intrinsic part of the right to life and personal liberty under Article 21 and as a part of the freedoms guaranteed by Part III of the Constitution. The 9-judge bench unanimously overruled M.P. Sharma v. Satish Chandra (1954) and the majority view in Kharak Singh v. State of U.P. (1962) to the extent they held privacy was not a fundamental right.
+
+KEY POINTS:
+- Privacy includes informational privacy, bodily integrity, decisional autonomy, and spatial privacy.
+- Restrictions on privacy must meet the test of (i) legality (existence of law), (ii) legitimate aim (state interest), (iii) proportionality (least intrusive means to achieve the aim), and (iv) procedural guarantees against abuse.
+- The judgment laid the constitutional foundation later applied in Navtej Singh Johar v. Union of India (2018) (decriminalising consensual same-sex relations), Joseph Shine v. Union of India (2018) (striking down adultery), and Puttaswamy (Aadhaar) (2018) (Aadhaar verdict).
+
+IMPACT: Cited in essentially every subsequent data-protection / surveillance / autonomy case in India. The Digital Personal Data Protection Act, 2023 cites Puttaswamy as one of its constitutional bases.

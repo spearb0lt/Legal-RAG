@@ -1,0 +1,38 @@
+TITLE: Consumer Protection Act, 2019 — Overview & Key Sections (Summary)
+DOC_TYPE: statute
+JURISDICTION: IN
+SOURCE_URL: https://consumeraffairs.nic.in/sites/default/files/CP%20Act%202019.pdf
+SOURCE_NOTE: This file is a CURATED SUMMARY for retrieval testing, NOT the verbatim Act. Replace with the full Act text from indiacode.nic.in / consumeraffairs.nic.in before any production use. The pecuniary jurisdictions stated below reflect the Consumer Protection (Jurisdiction of the District Commission, the State Commission and the National Commission) Rules, 2021. Verify current limits before relying.
+
+The Consumer Protection Act, 2019 (Act No. 35 of 2019) came into force in stages from 20 July 2020. It repealed the Consumer Protection Act, 1986.
+
+Section 2(7) — "consumer" means any person who buys any goods or hires any service for consideration, including users with the approval of the buyer. Excludes commercial-purpose purchases (with a livelihood-by-self-employment exception).
+
+Section 2(11) — "deficiency" includes negligence, fault, imperfection, shortcoming, or inadequacy in the quality, nature, and manner of performance of any service.
+
+Section 2(47) — "unfair trade practice" includes false representation, misleading advertisement, bait-and-switch, and 11 other enumerated categories.
+
+Sections 28-33 — Establishment of District Consumer Disputes Redressal Commissions ("District Commissions"). One per district.
+
+Sections 42-46 — Establishment of State Consumer Disputes Redressal Commissions ("State Commissions").
+
+Sections 53-57 — Establishment of National Consumer Disputes Redressal Commission ("National Commission").
+
+Pecuniary jurisdiction (per the 2021 Rules):
+  District Commission: complaints where value of goods/services paid does not exceed Rs. 50 lakh.
+  State Commission:    above Rs. 50 lakh and up to Rs. 2 crore.
+  National Commission: above Rs. 2 crore.
+
+Section 35 — A consumer complaint may be filed by the consumer, any recognised consumer association, the Central or State Government, or one-or-more consumers having same interest (representative).
+
+Section 38 — Procedure on admission of complaint: notice to opposite party, opportunity to file written response within 30 days (extendable to 45), then evidence.
+
+Section 39 — Reliefs available include: removal of defects, replacement of goods, refund of price, compensation, discontinuation of unfair practice, withdrawal of hazardous goods, and corrective advertising.
+
+Section 65 — Service of notice may be by electronic means including e-mail.
+
+Section 100 — The Act is in addition to and not in derogation of any other law.
+
+Section 101 — Power of Central Government to make rules.
+
+Filing channel — Most complaints can now be filed online via the e-Daakhil portal at https://edaakhil.nic.in, which is the National Consumer Commission's e-filing system rolled out across many State Commissions.

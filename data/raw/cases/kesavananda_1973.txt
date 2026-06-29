@@ -1,0 +1,16 @@
+TITLE: Kesavananda Bharati v. State of Kerala (1973) — Basic Structure Doctrine
+DOC_TYPE: case
+JURISDICTION: IN
+CITATION: (1973) 4 SCC 225
+SOURCE_URL: https://indiankanoon.org/doc/257876/
+SOURCE_NOTE: Curated summary, not verbatim judgment (the judgment runs ~700 pages with 11 separate opinions).
+
+Kesavananda Bharati Sripadagalvaru and Ors. v. State of Kerala, Writ Petition (Civil) No. 135 of 1970. Decided: 24 April 1973. Bench: 13-judge Constitution Bench — the largest bench in Indian judicial history.
+
+HOLDING: By a 7-6 majority, the Supreme Court held that Parliament's power to amend the Constitution under Article 368 is not unlimited. Parliament may amend any provision of the Constitution, but cannot amend it in a way that destroys or alters its "basic structure." Overruled Golak Nath v. State of Punjab (1967) to the extent Golak Nath held fundamental rights to be unamendable.
+
+KEY POINTS:
+- The majority did not define an exhaustive list of "basic features," but identified examples including: supremacy of the Constitution, republican and democratic form of government, secular character, separation of powers, federal character, and the unity and sovereignty of India.
+- Subsequent judgments have added to the basic-structure list: rule of law (Indira Nehru Gandhi v. Raj Narain, 1975), judicial review (Minerva Mills, 1980), free and fair elections (Indira Nehru Gandhi), independence of judiciary (S.P. Gupta and successors), and federalism (S.R. Bommai, 1994).
+
+IMPACT: The Basic Structure Doctrine is the most important constitutional doctrine in India. It has been used to strike down constitutional amendments including the 39th Amendment (Indira Nehru Gandhi), parts of the 42nd Amendment (Minerva Mills, 1980), the 99th Amendment (NJAC case, 2015), and as the basis for judicial review of Parliament's amending power generally.

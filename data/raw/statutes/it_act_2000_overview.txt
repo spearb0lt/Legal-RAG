@@ -1,0 +1,28 @@
+TITLE: Information Technology Act, 2000 — Overview & Key Sections (Summary)
+DOC_TYPE: statute
+JURISDICTION: IN
+SOURCE_URL: https://www.indiacode.nic.in/handle/123456789/1999
+SOURCE_NOTE: Curated summary, not verbatim Act. The IT Act has been amended significantly, most notably in 2008. The Digital Personal Data Protection Act, 2023 (DPDPA) was enacted in August 2023 and the rules were notified in 2025; DPDPA largely supersedes IT Rules on data protection. Verify each provision against current text before relying.
+
+The Information Technology Act, 2000 is India's primary cyber-law statute. It provides legal recognition for electronic records and digital signatures, addresses cyber offences, and establishes the Cyber Appellate Tribunal (now subsumed into TDSAT).
+
+Key sections (under IT Act, 2000 as amended):
+  Section 43 — Penalty for damage to computer / computer system (civil).
+  Section 43A — Compensation for failure to protect data (civil; partially superseded by DPDPA 2023 obligations).
+  Section 65 — Tampering with computer source documents.
+  Section 66 — Computer related offences (covers dishonest / fraudulent acts on computers; broad provision).
+  Section 66A — STRUCK DOWN by the Supreme Court in Shreya Singhal v. Union of India (2015) 5 SCC 1 as violative of Article 19(1)(a). Even though removed from law, prosecutions under 66A still occur erroneously and have been condemned by the Supreme Court.
+  Section 66C — Identity theft.
+  Section 66D — Cheating by personation by using computer resource.
+  Section 66E — Violation of privacy (capturing/transmitting private images).
+  Section 66F — Cyber terrorism.
+  Section 67 — Publishing or transmitting obscene material in electronic form.
+  Section 67A — Publishing or transmitting sexually explicit material.
+  Section 67B — Publishing or transmitting material depicting children in sexually explicit act, etc.
+  Section 69 — Power to issue directions for interception/monitoring/decryption.
+  Section 69A — Blocking of public access to information through computer resource.
+  Section 70 — Protected systems / CERT-In.
+  Section 79 — Exemption from liability of intermediaries (safe harbour, subject to due-diligence under IT Rules 2021).
+  Section 84A — Encryption modes; rule-making power.
+
+Cross-reference: Digital Personal Data Protection Act, 2023 (Act No. 22 of 2023) regulates processing of digital personal data and creates the Data Protection Board of India.

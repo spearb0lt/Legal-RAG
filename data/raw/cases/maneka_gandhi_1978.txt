@@ -1,0 +1,17 @@
+TITLE: Maneka Gandhi v. Union of India (1978) — Procedure established by law
+DOC_TYPE: case
+JURISDICTION: IN
+CITATION: (1978) 1 SCC 248
+SOURCE_URL: https://indiankanoon.org/doc/1766147/
+SOURCE_NOTE: Curated summary for retrieval testing, not the verbatim judgment.
+
+Maneka Gandhi v. Union of India, Writ Petition No. 231 of 1977. Decided: 25 January 1978. Bench: 7-judge Constitution Bench.
+
+HOLDING: Article 21 is not a self-contained provision. The "procedure established by law" must be "right, just and fair" — not arbitrary, fanciful, or oppressive. The Court inter-linked Articles 14, 19, and 21 (the "golden triangle"): any law affecting personal liberty must satisfy not only Article 21 but also Articles 14 and 19.
+
+KEY POINTS:
+- Overruled A.K. Gopalan v. State of Madras (1950) to the extent that Gopalan held Articles 14, 19, and 21 to be mutually exclusive.
+- Introduced substantive due process into Indian constitutional law via the "fair, just, and reasonable" formulation.
+- A passport impounding order that did not give the petitioner an opportunity to be heard violated principles of natural justice and was struck down.
+
+IMPACT: Foundational basis for the expansion of Article 21 rights — right to dignity (Bandhua Mukti Morcha, 1984), right to livelihood (Olga Tellis, 1985), right to education (Mohini Jain, 1992), right to clean environment (M.C. Mehta cases), right to privacy (Puttaswamy, 2017) all trace back to Maneka Gandhi's expansive reading of Article 21.

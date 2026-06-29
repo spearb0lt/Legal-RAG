@@ -1,0 +1,15 @@
+TITLE: Shreya Singhal v. Union of India (2015) — Strike-down of IT Act Section 66A
+DOC_TYPE: case
+JURISDICTION: IN
+CITATION: (2015) 5 SCC 1
+SOURCE_URL: https://main.sci.gov.in/judgment/judis/42361.pdf
+SOURCE_NOTE: Curated summary, not verbatim judgment.
+
+Shreya Singhal v. Union of India, Writ Petition (Criminal) No. 167 of 2012. Decided: 24 March 2015. Bench: 2 judges (J. Chelameswar and R.F. Nariman).
+
+HOLDING:
+(1) Section 66A of the Information Technology Act, 2000 was struck down in entirety as violative of Article 19(1)(a) (freedom of speech and expression) and not saved by the reasonable restrictions under Article 19(2). The section was held to be vague, overbroad, and to have a chilling effect on free speech.
+(2) Section 69A and the Information Technology (Procedure and Safeguards for Blocking for Access of Information by Public) Rules, 2009 were upheld, subject to the procedural safeguards in the Rules being strictly followed.
+(3) Section 79 (intermediary safe harbour) was read down: an intermediary is required to take down content only on receipt of an actual court order or a notification from an appropriate government / agency under Section 79(3)(b).
+
+IMPACT: Defining Indian free-speech-online judgment. Despite Section 66A being struck down, prosecutions under it continue erroneously; the Supreme Court has repeatedly condemned this in follow-up orders (PUCL v. Union of India, 2019; and 2021 order to all High Courts and DGPs to ensure 66A is not invoked).

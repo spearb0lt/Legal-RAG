@@ -1,0 +1,9 @@
+TITLE: Constitution of India — Article 21 — Protection of life and personal liberty
+DOC_TYPE: constitution
+JURISDICTION: IN
+SOURCE_URL: https://www.indiacode.nic.in/handle/123456789/15240
+SOURCE_NOTE: Verbatim text of Article 21. This is one of the most-litigated articles of the Constitution; the right to privacy, right to dignity, right to a clean environment, and many other rights have been read into it through case law (e.g., K.S. Puttaswamy v. Union of India (2017) 10 SCC 1).
+
+Article 21. Protection of life and personal liberty.
+
+No person shall be deprived of his life or personal liberty except according to procedure established by law.

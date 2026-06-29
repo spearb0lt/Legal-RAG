@@ -1,0 +1,15 @@
+TITLE: Constitution of India — Article 19 — Protection of certain rights regarding freedom of speech, etc.
+DOC_TYPE: constitution
+JURISDICTION: IN
+SOURCE_URL: https://www.indiacode.nic.in/handle/123456789/15240
+SOURCE_NOTE: Article 19 protects six freedoms. The text below is the operative clause of Article 19(1). Reasonable-restriction sub-clauses (Article 19(2)-(6)) are not included in this short demo seed; add them from the official source for production use.
+
+Article 19. Protection of certain rights regarding freedom of speech, etc.
+
+(1) All citizens shall have the right —
+(a) to freedom of speech and expression;
+(b) to assemble peaceably and without arms;
+(c) to form associations or unions; or co-operative societies;
+(d) to move freely throughout the territory of India;
+(e) to reside and settle in any part of the territory of India;
+(g) to practise any profession, or to carry on any occupation, trade or business.

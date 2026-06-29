@@ -1,0 +1,19 @@
+[server]
+# Keep sessions alive during long computations (embedding/LLM calls)
+maxUploadSize = 50
+enableXsrfProtection = true
+# CRITICAL: disable file watcher. Streamlit's default watcher walks every
+# imported module on rerun. When sentence-transformers loads PyTorch, the
+# watcher inspects torch._classes and throws
+#   RuntimeError: Tried to instantiate class '__path__._path'
+# which crashes the page on every question.
+# Trade-off: you must restart streamlit manually after editing source.
+fileWatcherType = "none"
+
+[browser]
+# Don't auto-open a browser window when starting via run.bat
+gatherUsageStats = false
+
+[runner]
+# Prevent unhandled exceptions from killing the server
+fastReruns = true

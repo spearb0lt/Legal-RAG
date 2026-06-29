@@ -1,0 +1,17 @@
+TITLE: Vishaka v. State of Rajasthan (1997) — Workplace Sexual Harassment Guidelines
+DOC_TYPE: case
+JURISDICTION: IN
+CITATION: (1997) 6 SCC 241
+SOURCE_URL: https://indiankanoon.org/doc/1031794/
+SOURCE_NOTE: Curated summary, not verbatim judgment.
+
+Vishaka and Ors. v. State of Rajasthan and Ors., Writ Petition (Criminal) Nos. 666-670 of 1992. Decided: 13 August 1997. Bench: 3 judges (CJI J.S. Verma, Sujata V. Manohar, B.N. Kirpal).
+
+HOLDING: In the absence of enacted law on workplace sexual harassment, the Supreme Court used international conventions (notably CEDAW) and Articles 14, 15, 19(1)(g), and 21 of the Constitution to issue binding guidelines on prevention and redressal of sexual harassment at the workplace. These came to be known as the "Vishaka Guidelines."
+
+KEY POINTS:
+- Defined sexual harassment broadly: physical contact and advances, demand or request for sexual favours, sexually-coloured remarks, showing pornography, any other unwelcome physical/verbal/non-verbal conduct of sexual nature.
+- Mandated employers to provide a safe working environment and establish a Complaints Committee headed by a woman with at least half women members.
+- Held that the guidelines would be binding until appropriate legislation was enacted.
+
+IMPACT: The guidelines remained the operative law for 16 years until Parliament enacted the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 ("POSH Act"), which codified and expanded the Vishaka framework. The POSH Act mandates an Internal Complaints Committee (ICC) in every organisation with 10+ employees and a Local Complaints Committee (LCC) at the district level for smaller establishments.

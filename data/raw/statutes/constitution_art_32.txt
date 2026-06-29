@@ -1,0 +1,11 @@
+TITLE: Constitution of India — Article 32 — Remedies for enforcement of fundamental rights
+DOC_TYPE: constitution
+JURISDICTION: IN
+SOURCE_URL: https://www.indiacode.nic.in/handle/123456789/15240
+SOURCE_NOTE: Article 32 is itself a fundamental right; Dr. Ambedkar called it the "heart and soul" of the Constitution. Short verbatim seed for demo.
+
+Article 32. Remedies for enforcement of rights conferred by this Part.
+
+(1) The right to move the Supreme Court by appropriate proceedings for the enforcement of the rights conferred by this Part is guaranteed.
+
+(2) The Supreme Court shall have power to issue directions or orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, whichever may be appropriate, for the enforcement of any of the rights conferred by this Part.
